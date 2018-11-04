@@ -1,0 +1,56 @@
+.presave-hero-background {
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+
+.book {
+	text-align: center;
+}
+
+.book h1 {
+	color: #fff;
+	letter-spacing: 1px;
+	font-size: 28px;
+	font-weight: bold;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h3 {
+	color: #fff;
+}
+
+.book p.header {
+	font-size: 18px;
+}
+
+p {
+	font-size: 12px;
+	color: #929292;
+	text-align: center;
+}
+
+.white {
+	color: #fff;
+}
+
+.artwork {
+	text-align: center;
+}
+
+.artwork img {
+	height: 250px;
+	width: 250px;
+}
+
+form {
+	color: #fff;
+}
+
+.alert ul {
+	margin-bottom: 0;
+	padding-left: 0;
+	text-align: left;
+	list-style: none;
+}
